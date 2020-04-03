@@ -1,6 +1,5 @@
 <url>
-<loc>https://ruu.lv/FILENAME</loc>
-<lastmod>DATE_W_HYPENST10:00:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.50</priority>
-
+  <loc>https://ruu.lv/HTML_FILENAME</loc>
+  <lastmod>DATE_W_HYPENST10:00:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.50</priority>
