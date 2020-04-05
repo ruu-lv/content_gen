@@ -1,2 +1,4 @@
 # content_gen
-Generators that formats HTMLs and videos from templates.
+
+Generate HTML and sitemap.xml for ruu.lv news, videos and AMP using these templates and 
+https://github.com/Janis-Rullis-IT/shell-scripts/tree/master/iwgs.sh
