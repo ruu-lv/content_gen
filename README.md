@@ -6,6 +6,10 @@ https://github.com/Janis-Rullis-IT/shell-scripts/blob/master/albums-for-web.sh
 ## Preparation before using `albums-for-web.sh`
 
 ```shell
+sudo apt install webp
+```
+
+```shell
 sudo ln -s ~/Desktop/www/content_gen/news.header.tpl.html /usr/local/bin/news.header.tpl.html
 sudo ln -s ~/Desktop/www/content_gen/news.header.tpl.xml /usr/local/bin/news.header.tpl.xml
 sudo ln -s ~/Desktop/www/content_gen/news.footer.tpl.html /usr/local/bin/news.footer.tpl.html
